@@ -5,3 +5,8 @@
 ```
 Ejemplo de código en markdown
 ```
+
+## Lista
+- [] Primer pendiente
+- [] Segundo pendiente
+- [] N pendiente
